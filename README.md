@@ -5,7 +5,7 @@ Welcome to my personal **About Me** website — a modern, responsive webpage tha
 ## 🌐 Live Website
 
 You can view the site here:  
-[https://ben1234456.github.io/benjong.github.io](https://ben1234456.github.io/benjong.github.io)
+[https://ben1234456.github.io/](https://ben1234456.github.io/)
 
 ## 📌 Features
 
